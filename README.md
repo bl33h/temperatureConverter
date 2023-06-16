@@ -16,7 +16,7 @@ This project revolves around the conversion of temperature readings obtained fro
 
 - src: the file that implements de solution.
 
-##Functionality
+## Functionality
 The code offers the following key functionalities:
 
 - Acquires temperature data from a temperature sensor (Adafruit BMP280).
@@ -25,7 +25,7 @@ The code offers the following key functionalities:
 - Manages the position tracking within the spreadsheet to ensure organized storage of converted temperatures.
 - Provides informative console output displaying the converted temperatures and relevant status messages.
 
-##How To Use
+## How To Use
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
 ```bash
