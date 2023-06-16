@@ -14,8 +14,7 @@ This project revolves around the conversion of temperature readings obtained fro
 
 ## Files
 
-- .py: the normal Python file that implements de solution.
-- .ipynb: the colab Python file that implements de solution.
+- src: the file that implements de solution.
 
 ##Functionality
 The code offers the following key functionalities:
